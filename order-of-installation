@@ -97,4 +97,11 @@ Add Roles and Features
     Next
       Next
         Next
+          Select "Network Policy and Access Services"
+            Add Features
+              Next
+                Next
+                  Next
+                    Install
+                      Click "Close"
   5. Web Server (IIS)
